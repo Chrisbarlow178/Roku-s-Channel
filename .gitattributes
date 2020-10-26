@@ -1,2 +1,37 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test Page</title>
+</head>
+<body>
+	<h1>Hey My Name Is <br> Roku </h1>
+	<p>  </p>
+
+ <h2>My Goal as a artist</h2>
+ <p>
+ 	1. make more music <br>
+	2. Learn to be a full stack developer <br>
+ </<p>
+
+
+ <p>Click <a href="https://www.skillshare.com/classes/Hand-Code-Your-First-Website-HTML-CSS-Basics/1575146775/projects?via=browse-featured"
+	 target="_blank" title="Learn Html and Css" > <b>Here</b> </a>
+	 to learn more about HTML and Coding.
+ </p>
+
+ <p>Check Me Out On My Other Pages</p>
+
+ <ol>
+ 1. <a href="https://www.instagram.com/omgroku" target="_self" title="Omg Roku"> <b>Instagram </b> </a>
+ <br>
+ 2. <a href="https://www.youtube.com/channel/UCG6J29rKvmwfgsG3It-2ZFw" target="_self" title="Roku's Channel"> <b> Youtube</b> </a>
+ <br>
+ 3. <a href="https://soundcloud.com/omgroku" target="_self" title="My Soundcloud Page" > <b> Soundcloud </b>  </a>
+ <br>
+ </ol>
+
+
+<link rel="stylesheet" href="/css/master.css">
+	<img src="https://wallpaperaccess.com/full/32048.jpg">
+</body>
+</html>
